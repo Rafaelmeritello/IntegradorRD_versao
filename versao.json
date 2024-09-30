@@ -3,6 +3,8 @@
   "data_lancamento": "27-09-2024",
   "link_download": "https://drive.google.com/drive/folders/1nqkSDIhZC5eNnfch1-9rbHSfYTii3WAr?usp=drive_link",
   "novidades": [
-    " -  FUNÇÃO PARA RENOMEAR PLANILHA UPLOAD COM A DATA ATUAL",
+    " -  Adicionado icone verificador de atualizações (a direita do numero da versão)",
+    " -  Agora é exibido o nome dos arquivos importados no status de importação do atualizador da planilha controle",
+    " -  Adicionado menu para seleção de filtros interessados na planilha vethor",
   ]
 }
