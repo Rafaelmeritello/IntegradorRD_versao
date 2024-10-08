@@ -1,8 +1,8 @@
 {
-  "ultima_versao": "0.6.5",
-  "data_lancamento": "27-09-2024",
+  "ultima_versao": "0.6.6",
+  "data_lancamento": "08-10-2024",
   "link_download": "https://drive.google.com/drive/folders/1nqkSDIhZC5eNnfch1-9rbHSfYTii3WAr?usp=drive_link",
   "novidades": [
-    " - Formato de data atualizado para formato brasileiro",
+    " - Formato de data atualizado para formato do Brasil",
   ]
 }
