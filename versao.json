@@ -3,6 +3,8 @@
   "data_lancamento": "08-10-2024",
   "link_download": "https://drive.google.com/drive/folders/1nqkSDIhZC5eNnfch1-9rbHSfYTii3WAr?usp=drive_link",
   "novidades": [
-    " - Formato de data atualizado para formato do Brasil",
+    " - Resolvido falha para caso o modulo seja fechado durante o processamento",
+    " - Incluido modulo para atualizar o database (beta)",
+    " - Incluido modelos de planilhas na pasta do programa"
   ]
 }
