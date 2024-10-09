@@ -5,6 +5,7 @@
   "novidades": [
     " - Resolvido falha para caso o modulo seja fechado durante o processamento",
     " - Incluido modulo para atualizar o database (beta)",
-    " - Incluido modelos de planilhas na pasta do programa"
+    " - Incluido modelos de planilhas na pasta do programa",
+    " - Adicionado preenchimento automatico da coluna 'avançar para proxima etapa'"
   ]
 }
