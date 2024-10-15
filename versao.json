@@ -1,11 +1,11 @@
 {
-  "ultima_versao": "0.7.0",
+  "ultima_versao": "0.8.9",
   "data_lancamento": "08-10-2024",
   "link_download": "https://drive.google.com/drive/folders/1nqkSDIhZC5eNnfch1-9rbHSfYTii3WAr?usp=drive_link",
   "novidades": [
     " - Resolvido falha para caso o modulo seja fechado durante o processamento",
-    " - Incluido modulo para atualizar o database (beta)",
-    " - Incluido modelos de planilhas na pasta do programa",
-    " - Adicionado preenchimento automatico da coluna 'avançar para proxima etapa'"
+    " - Incluido modulo de consulta database",
+    " - Incluido dashboard",
+    " - Bugs resolvidos",
   ]
 }
